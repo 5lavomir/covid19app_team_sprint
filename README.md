@@ -1,5 +1,4 @@
-# sprint3team1vue
-
+# Covid19App, 2 week sprint.
 
 ## Project setup
 ```
