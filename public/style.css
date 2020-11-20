@@ -1,0 +1,15 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  min-height: calc(100% - 120px);
+  background-color: rgb(71, 109, 129);
+  color: #eee;
+}
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+}

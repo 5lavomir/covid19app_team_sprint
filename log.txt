@@ -1,0 +1,970 @@
+commit 77bb2ff79db480c3deae17f45c34d9e131586c32
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:44:24 2020 +0000
+
+    added finishing touches
+
+commit 5016102bc345a454aebef9b4b33b4c8fec9daa4b
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:41:32 2020 +0000
+
+    removed comments
+
+commit 0680f9a56301e87a4e6717f15275ee8b14b57ce5
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:40:03 2020 +0000
+
+    added non-working code for review
+
+commit f5c6d11611271c68794767c6ef5eb23b47c2ebee
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:39:27 2020 +0000
+
+    added non-working code for review
+
+commit 8915c199e1dd562261664e3509651e5f66d79617
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:36:51 2020 +0000
+
+    changed wording
+
+commit 38a9c61a496288d809b7c246a1db756c361407c3
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:35:59 2020 +0000
+
+    changed wording
+
+commit f39dcb34d60b8152c02c8cdad05d0ac32f8a17e1
+Merge: f4d80f3 9201c03
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:35:18 2020 +0000
+
+    changed title for graph
+
+commit f4d80f38a095bbb3cdec74429e48a0e30456c8d7
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Nov 2 10:33:00 2020 +0000
+
+    changed title for graph
+
+commit 9201c039b06ecbcc3eeaeb1e41a82b789d165b19
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 10:23:44 2020 +0000
+
+    Removed trailing spaces in newstable
+
+commit 9b8e2454d4dcbd41992b093b3b21d3c49b1235e8
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 10:11:02 2020 +0000
+
+    Edited indentation on news table
+
+commit 066ecec50a361259a54285e4d25f897e952f7802
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 09:57:42 2020 +0000
+
+    Changed API key on the news api
+
+commit 396a11caec627783eb8903aa504b206b358e0cbf
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 09:40:57 2020 +0000
+
+    Added some more meta information in <head> of index.html
+
+commit 2b1f4fd81816598a2c0e2ad93e4a1c7767edaa08
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 08:58:28 2020 +0000
+
+    Edited title
+
+commit 62853ea71bbc1c44b6a81d46852784be506396eb
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 01:45:24 2020 +0000
+
+    Added some text info inside news table columns
+
+commit f830935239592879b228e8a44c5629c86bdb4429
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 01:19:32 2020 +0000
+
+    Edited some CSS and made navbar fixed on screen
+
+commit 0c0be07d0236dda59bb0b19fe7eb0bdc73af1ee4
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 00:44:34 2020 +0000
+
+    Editing script a bit to see if it fixes anything
+
+commit 760e0599097b2da1f3e8104bef51a7278f331cc3
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 00:36:52 2020 +0000
+
+    Reverting back a couple steps, no changes fixed issue as of yet
+
+commit e464773d5968c071456d3073aa17d7dc996cbbf8
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 00:28:48 2020 +0000
+
+    Removing .catch to try fix error
+
+commit dad231ab0e0f729607174696275416a75495c765
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 00:19:20 2020 +0000
+
+    Changing push to console.log to try fix issue
+
+commit d3b9fb51dd0603ffe6feb9229275891f6573708d
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 00:07:46 2020 +0000
+
+    Changing API url from http to https to try fix issue
+
+commit 3f6bd70c4325a30d2382a34b1c104cfa1ae1a2c7
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Nov 2 00:05:58 2020 +0000
+
+    Country stats table header will now display the selected country name
+
+commit 83834e14ba09d2e7adc74891098136b9489fa993
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Nov 1 23:57:50 2020 +0000
+
+    Added new table, one for world news and one for uk news
+
+commit 2c0e23ddadec95e7772b34442d13d43696863c17
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Nov 1 21:58:31 2020 +0000
+
+    Fixed news table link, had to v-bind the url from the API for each news article
+
+commit 24ec76a668104bae152382e642454ec179fb93da
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Nov 1 21:51:48 2020 +0000
+
+    Commented graph component out of the stats.vue for now
+
+commit ecb52320169b694269ef2234abb60dcaf16d90d9
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Nov 1 21:49:52 2020 +0000
+
+    Added external css stylesheet
+
+commit 09763382e0c393ff0247819f4ef3a2078ae431f0
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Nov 1 21:41:56 2020 +0000
+
+    Added graph.vue to route and navbar
+
+commit 109567741f8f52c84182d83fa28684f5d99690fc
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Nov 1 00:46:12 2020 +0000
+
+    Some styling removed
+
+commit d07ac3a889ebbec9dd427396723cfd1fd21085b3
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Nov 1 00:07:50 2020 +0000
+
+    Removed index.html styling and background colours
+
+commit d860dcec0a1e020e3d303c7bb8baf1ad8db12cac
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sat Oct 31 23:22:58 2020 +0000
+
+    Removed some unused CSS styling in about.vue
+
+commit 443ce138b4f87ea8d425d6ed22f0ac781e3e915d
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Fri Oct 30 08:43:59 2020 +0000
+
+    API-News first column
+
+commit 899a18e2cb4fb779e3e24fcf10b74f209654b665
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Fri Oct 30 08:41:46 2020 +0000
+
+    API news first column
+
+commit 2f6493f978cb39eae88a09997609234833ed01da
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Thu Oct 29 22:33:33 2020 +0000
+
+    managed to import but no graph is showing
+
+commit d68ef65b6be43cc6f7e285588026a10ed11ec9ca
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Thu Oct 29 22:20:41 2020 +0000
+
+    added import to stas page but commented out to not break page, will get it checked
+
+commit e5c47877720aab2598e7aab7909841be10741107
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Thu Oct 29 21:59:12 2020 +0000
+
+    added basic graph to graph.vue
+
+commit 73b09ef6d7ffe502d08984269f0f484cc4756644
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Thu Oct 29 21:50:19 2020 +0000
+
+    added graph.vue
+
+commit 4a3ff14978a88a1b94d44d53151fd15a93d7916a
+Author: Andrew Ellen <18004410@uhi.ac.uk>
+Date:   Thu Oct 29 15:18:18 2020 +0000
+
+    Updated the table in the home page to fit the design. Stats don't work.
+
+commit fcf36b8c54fecc02bfcb6d2734e532dc31441dbe
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 11:05:37 2020 +0000
+
+    Formatted country stats data to show correct ',' in thousands etc.
+
+commit 48ff11cd8aa7eebbdb058fdc829f798a1a72af9d
+Merge: 065eaca 33eff88
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 09:59:32 2020 +0000
+
+    Merge branch 'master' of bitbucket.org:12010280_AD/team1_covid_api_vuejs into master
+    Merging
+
+commit 065eacad1967d3720d4c624f66a1bbb78cdee3af
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 09:59:06 2020 +0000
+
+    Messing about with covid info boxes styling
+
+commit 33eff8853e0c5c3326983b6f7354142b5200aaf4
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Thu Oct 29 08:48:47 2020 +0000
+
+    News API
+
+commit 6e374f9803bfea95f637298e4a0c8dd0e5785f4c
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 08:34:26 2020 +0000
+
+    Edited covid info pics with Adobe PS to emboss them a bit
+
+commit 47930d263d0f11825b58b6880c672ff3835eb3a1
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 07:34:55 2020 +0000
+
+    Updated gov scot's covid info link
+
+commit 346da553942f168b665a03468e4ff0a609391dab
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 07:33:16 2020 +0000
+
+    Renamed the stats route to 'country stats'
+
+commit 9753e746d837e329fc2b22e7006d3e53346f8b43
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 07:32:47 2020 +0000
+
+    Added three info boxes, will finish later
+
+commit 63d2a84a326329e05df3e953765faaf7a462aa49
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 07:08:07 2020 +0000
+
+    Added new component: CovidLinkBoxes
+
+commit 53b9ee495ac2539c01beb5f69412e5af9113b2fc
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 05:55:58 2020 +0000
+
+    Removed style.css, don't think we will actually us it this time
+
+commit 52b9deadb14a5b1b324a0fef4f57895f9e681ceb
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 05:49:19 2020 +0000
+
+    Turned navbar into a component
+
+commit 866adadde1ecaee5de3be1325de0720808234bfe
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 05:21:05 2020 +0000
+
+    Hopefuly fixing error from linter settings
+
+commit 6b98710fd11561cd3f19caf5848db765c6522ba9
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 05:11:06 2020 +0000
+
+    Hopefuly fixing error from linter settings
+
+commit 9193c7ad91cb477bb5f6a284695d9a36d2e83d29
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 05:03:31 2020 +0000
+
+    Turned country stats table into component
+
+commit 1e4a7b21b85f14efabecc6ebc0415c3ebabce38a
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 04:04:56 2020 +0000
+
+    Removed helloworld from home route as it isn't used there anymore
+
+commit 2547b5eb4ba32f9c689568d3d5c8283f0f55f8d4
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 03:30:22 2020 +0000
+
+    Tested hover CSS on news table
+
+commit 223c54a7a5ec8d8e516d5e12ac9a387583bd28b2
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 03:19:14 2020 +0000
+
+    Changed contributor text to black so we can see it again
+
+commit 34fd86cc8acf20a62787db3f34aee433afc76955
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 03:04:21 2020 +0000
+
+    Optimised some of the CSS
+
+commit 10a83e1abb6bfeb4c7eaee4f53edc2db47b3682d
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 02:53:22 2020 +0000
+
+    Removed country name from table header, added above table instead
+
+commit 4ed1ff006858524475fb7fea191c7a5251ce5167
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 02:44:05 2020 +0000
+
+    Added a background gradient because the white was hurting my eyes, we can choose a colour during our next meeting
+
+commit b7c0ec44d4d01d51e8dc25af16a931ab632574d6
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 02:34:28 2020 +0000
+
+    removed select in country text from country stats table
+
+commit d1bc1f18b8f11bc2bc1e1b2d4d281d877cdf7eb3
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 02:18:35 2020 +0000
+
+    Route link on nav will now show as green, others will be white
+
+commit 21e73c670ef98baffd69a47963e953d30cf3c068
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 02:17:33 2020 +0000
+
+    Put the <td></td>s as one liners, to increase readability
+
+commit 1139be24c3bb3eab5a0d8ffc00a2c2e95bba04c1
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 02:02:51 2020 +0000
+
+    Moved about route to end of nav bar
+
+commit c6397c173bf743ec9b2c82ba69b6e3b1cbd380d2
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 02:01:52 2020 +0000
+
+    Removed logos from pages content and added to nav bar
+
+commit 2bc9af22455935c878b58dfd1ffebaa4ecfeef7c
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 01:58:09 2020 +0000
+
+    Removed background from logo
+
+commit 8b3933ad027c6295558a026bf61bd186259d76b5
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 01:36:49 2020 +0000
+
+    Styled stats header
+
+commit ed6df8c5c043eaf75688775295309f2da8cb7a4f
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 00:24:17 2020 +0000
+
+    Removed class from stats table
+
+commit b55083b8eeee0b6640d47f19b023ad6093af8c31
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Thu Oct 29 00:10:11 2020 +0000
+
+    Added a country output to the country stats table
+
+commit 843cb33bb788e81b94ae4668b8ad0d96401aaddf
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Wed Oct 28 22:38:38 2020 +0000
+
+    Removed NAV BAR css, styled stats table a bit
+
+commit 6cde84c3cebd749c785161ac99af7833fa21187d
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Wed Oct 28 21:18:05 2020 +0000
+
+    Added new component 'CountryStatsTable.vue' to project
+
+commit 71d0fb64a3c0a3acd578a5c66b4b26c9963d30b0
+Author: Andrew Ellen <18004410@uhi.ac.uk>
+Date:   Wed Oct 28 16:26:15 2020 +0000
+
+    Added a table to display the world wide stats on the Home page
+
+commit ac58dd292e79c229a6153015c8d7d38f82b14d2f
+Author: Andrew Ellen <18004410@uhi.ac.uk>
+Date:   Wed Oct 28 15:48:27 2020 +0000
+
+    Fixed death count on the table
+
+commit 55b089824c78a498bbecf4d22f5ed419898b514d
+Author: Andrew Ellen <18004410@uhi.ac.uk>
+Date:   Wed Oct 28 15:46:52 2020 +0000
+
+    Added the ability for the stats to be shown in the table
+
+commit 823ed98ce2430283cd750984daa1f1cff456f5fe
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Wed Oct 28 11:17:08 2020 +0000
+
+    fxied more lint errors, we really need to just remove this..
+
+commit 1ec13cdad3866c758918084d1eab530b541a0326
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Wed Oct 28 11:15:33 2020 +0000
+
+    added a comment on the Stats.vue for the design to be done by Friday sprint review
+
+commit 904300cda8ea59bc10839aa97424fdfc9e52941a
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Wed Oct 28 11:01:42 2020 +0000
+
+    fixed a random lint error
+
+commit 5a207914810a9211d3d0a9ce42a1432158e6f644
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Wed Oct 28 10:51:34 2020 +0000
+
+    fixed the total value data from the api so you can output the data where you like, i left a comment on how to do this. Feel free to put the information where you want once you've finished the design.
+
+commit f21d1214e678b17e2a0b95b2b3f5a0e56586df1f
+Merge: a1567eb 1ae9c1e
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Wed Oct 28 10:35:23 2020 +0000
+
+    Updated
+
+commit a1567ebb1e2e16fb73f925e607f3bd086901f49c
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Wed Oct 28 10:10:57 2020 +0000
+
+    News table as a component
+
+commit 1ae9c1ef56cb8d3c0c8a3505b0e34b72f7f2cfa0
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Wed Oct 28 09:45:41 2020 +0000
+
+    added about us to main site
+
+commit 57d70ac433db6e15557fe765aef16655471741de
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Tue Oct 27 20:44:56 2020 +0000
+
+    added logo border and fixed image class
+
+commit 5f8da8e5c92aa6015397c6f7b7898139df960f28
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Tue Oct 27 20:24:56 2020 +0000
+
+    updated about us
+
+commit a1750cd1164fbd8b07c2da12eb3bd13032a17c6e
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Tue Oct 27 19:23:02 2020 +0000
+
+    updated news
+
+commit 1cf5805cc357d91923d23aed64e1a3cc509d6d15
+Merge: fbd67cd f51cbfa
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Tue Oct 27 19:17:50 2020 +0000
+
+    Merge branch 'master' of bitbucket.org:12010280_AD/team1_covid_api_vuejs
+
+commit fbd67cd3725c4073c384eaaff4b4f5f19b74a871
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Tue Oct 27 19:17:40 2020 +0000
+
+    updated about us with css
+
+commit f51cbfa5625f8093bdad7d77a93b1fff9d40ea31
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Tue Oct 27 19:16:20 2020 +0000
+
+    updated news
+
+commit 379210061472d9c42e97c37654d7cf22a9fca44e
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Tue Oct 27 18:29:53 2020 +0000
+
+    news
+
+commit 8fa3bb38b1857144177d469ebc0777819a19f7d5
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Tue Oct 27 16:37:04 2020 +0000
+
+    Editing stats.vue styling, centered items
+
+commit d536d96c472ded0ef7816eb62e522890033afdd1
+Author: Andrew Ellen <18004410@uhi.ac.uk>
+Date:   Tue Oct 27 16:24:04 2020 +0000
+
+    Added styling for table. Border and center arent working
+
+commit 7dbe845bb00ab1b83ba3b579a2747add78a10f2e
+Author: Andrew Ellen <18004410@uhi.ac.uk>
+Date:   Tue Oct 27 15:46:50 2020 +0000
+
+    Added table without styling for the stats page
+
+commit 7ce3c94f5ff3cb38d638463b3022a631f3ca3e95
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Mon Oct 26 23:40:39 2020 +0000
+
+    edited about us
+
+commit e436353b9e0d1daec5b972e1e23cdf04eadaeec2
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Mon Oct 26 21:06:05 2020 +0000
+
+    added basic about us page
+
+commit 56916ade3f0a5d5bc98474caca7d9bf2313a82dc
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Mon Oct 26 21:04:41 2020 +0000
+
+    added basic about us page
+
+commit 82d1fd253b19f653c157c63f7895600d41e5e5c1
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Mon Oct 26 16:32:27 2020 +0000
+
+    increased name box width from 25 to 30
+
+commit 51a48d4586737e9a14641066c5784fe1bbca154a
+Merge: e92e7c3 aa3f8ba
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 26 15:46:46 2020 +0000
+
+    Merge branch 'master' of bitbucket.org:12010280_AD/team1_covid_api_vuejs into master
+
+commit e92e7c3dbf35e2e054d4c968841f9782fd62c0b4
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 26 15:46:35 2020 +0000
+
+    Removed useless html files in public directory
+
+commit aa3f8ba0674ebea4a4912b2de57741284fa01538
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Mon Oct 26 15:08:04 2020 +0000
+
+    linkedin
+
+commit 9fa826835ce00b1bc5fcbba02f29ca7e9058c549
+Author: GRANT JOHNSTONE <06019118@uhi.ac.uk>
+Date:   Mon Oct 26 15:05:59 2020 +0000
+
+     added my name and links
+
+commit f19d68d30185a8bd0a10a2576cc8e3c93bf47821
+Author: Andrew Ellen <18004410@uhi.ac.uk>
+Date:   Mon Oct 26 14:52:26 2020 +0000
+
+    Added my name with Linked in and Github
+
+commit 6f70fb6f071e73921b6b922b4678428898778cfa
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 26 14:48:30 2020 +0000
+
+    Trying to fix Slawo's Linkedin url
+
+commit 21e337864c0e2802d2e3a317bbe76f828fc2fb76
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Mon Oct 26 10:52:59 2020 +0000
+
+    added my name :P
+
+commit cd7a32095338ff0dc61d167b0475cec5a3b7c1c1
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 26 10:28:27 2020 +0000
+
+    Put some space underneath the contributor area
+
+commit e4e2453de557de07d09a078b938bf6fb70defec5
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 26 10:22:44 2020 +0000
+
+    Edited contributor elements with some bootstrap
+
+commit dee872b98f085687b7ab4869bf8cc6854459fff4
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 26 09:37:41 2020 +0000
+
+    Fixed compiling error
+
+commit e3796d7fe320b30de54257fd44b37f0a6e15666b
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 26 03:24:51 2020 +0000
+
+    messing with router for 404 error
+
+commit 32b5d378c6fd72f9cf5d03f20aa55d0768aaa82d
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 26 02:44:10 2020 +0000
+
+    fixed linter errors, always linter errors
+
+commit 7810dd524fb3ee1be8e29f139f728154f705c3ec
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 26 02:39:30 2020 +0000
+
+    Managed to fix 100 errors getting the data into the dropdown, not sure what some of the methods being used actually do so will bring it up in meeting. Created some comments and a div for the data to be output into (create jira task)
+
+commit c2121cfd7da5f16de14c6a013e6c5fa150eeffcc
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 26 01:06:52 2020 +0000
+
+    Trying to get the downdrop working with the API #1
+
+commit 3f1cae3fa6aafbc5fef99791f187a06783a81e9f
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 26 00:55:21 2020 +0000
+
+    Removed SearchCountry.vue will just use it in the Stats.vue, added the bases of the dropdown - testing
+
+commit 17b8a34b69ec772ac628410bc8dcf791239bd649
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Mon Oct 26 00:46:40 2020 +0000
+
+    added SearchCountry.vue for the Covid19API
+
+commit 465cb390805a3df7f7a90b861d1481b7535f83b5
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 26 00:11:03 2020 +0000
+
+    Just practicing some bootstrap on stats page
+
+commit 3c97df064d93f21af1d33345a95ff21d47d1cf3e
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 25 23:42:12 2020 +0000
+
+    Cleaned up nav bar CSS a bit
+
+commit 5753d16bfcb67099d12997f170f2416a2aebb524
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 25 23:37:16 2020 +0000
+
+    Fixing log error 'Build 53'
+
+commit 72d9c7b78bd5e382e039a2dabcda3628040e2d62
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 25 23:34:33 2020 +0000
+
+    Added linkedin URL to contributer section
+
+commit cd99aa68908abd58300d9dd6acc81f6e98913352
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 25 23:31:26 2020 +0000
+
+    Added unique class name for each .vue page
+
+commit 601d18b61fb53259eba4bde6977f82fdc1c93754
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 21:32:48 2020 +0000
+
+    added a responsive logo, later on i will need to add the link where i got it from on the homepage somewhere
+
+commit 22c9f5b605b410e62438a7475fe84b46403d8c92
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 21:24:11 2020 +0000
+
+    changed the url for the app contributors url example so it doesn't just go to localhost
+
+commit 98a012fa2ed17e2b78731d1693b2ca2e28c1f328
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 21:18:48 2020 +0000
+
+    Added App Contributors on the home, left a test example so you can copy and fill in your details with ease if you like. Also removed some unrelated junk.
+
+commit ce5ce3f67992b45aa6ec71167199a900cee030e6
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 21:01:21 2020 +0000
+
+    added a disclaimer on the home for legal reasons
+
+commit 72925b9e9d16dab36a926e538f7239b4c633284d
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:57:30 2020 +0000
+
+    renamed the nav now i know the pipeline is all working, turns out it was my fault it broke - Run locally before commit
+
+commit e8f8aea281383162349687ce3ffb6ea8b1581650
+Merge: 434bcab 5df4ce7
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:46:57 2020 +0000
+
+    Merge branch 'master' of bitbucket.org:12010280_AD/team1_covid_api_vuejs into master
+
+commit 434bcabbd0a5b2f4e0aea98e3ca25425d643e45f
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:46:31 2020 +0000
+
+    HelloWorld.vue again until i sort it
+
+commit 5df4ce77abb5e8a5abf9071fd015554ff36188be
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 25 20:46:25 2020 +0000
+
+    Removing test header
+
+commit 8eda4d0e3c78b48e85f733fda9744abd75dc67bd
+Merge: 2061628 b187fc4
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 25 20:42:38 2020 +0000
+
+    erge branch 'master' of bitbucket.org:12010280_AD/team1_covid_api_vuejs into master
+    
+    Merging master branch
+
+commit 2061628bfe8b52aa138190a4e51f774c2305cca3
+Author: ALEX DUTHIE <12010280@uhi.ac.uk>
+Date:   Sun Oct 25 20:42:16 2020 +0000
+
+    Just testing an edit for pipeline test
+
+commit b187fc45ad70d1538b1fddb609774a4341fb6fa2
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:38:12 2020 +0000
+
+    changed Home -> Test in the nav to see if the pipeline is working
+
+commit 145118bc244c3150ca95bde3dabd7e53908ccdc6
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:36:36 2020 +0000
+
+    added news and stats to the main page nav
+
+commit 015d16224dc420b3efd0f49fc14fd69004831270
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:32:23 2020 +0000
+
+    added News.vue & Stats.vue, should work with the routing
+
+commit cc887bbef320e4d070d4616a147a3c25ce8d40f3
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:31:09 2020 +0000
+
+    fixed the routing the News.vue
+
+commit 20200ddea0dfc5ad04d162ab88372cdda880767e
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:30:14 2020 +0000
+
+    adding some routing for Stats.vue and News.vue
+
+commit b3b79f625773f4dfcc6970a31c55cd9f19a9bc7e
+Author: LEWIS BROGAN <06016658@uhi.ac.uk>
+Date:   Sun Oct 25 20:23:57 2020 +0000
+
+    renamed HelloWorld.vue -> App.vue, no need for HelloWorld anymore
+
+commit f1850947318702cb8ed54ba02d1edbc0401337df
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 21:12:50 2020 +0100
+
+    Commented nav bar out for the meantime
+
+commit 3b260a19374f3ca9b8382516b28479d4890c7607
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 20:55:45 2020 +0100
+
+    Linked nav bar buttons to relevant HTML pages
+
+commit 4d049a9555e29de6f626cb50d898896e591510a8
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 20:48:01 2020 +0100
+
+    Created blank news and stats html pages, added nav bar to them
+
+commit d117ba5f4db6c107d42e1e691ff463402c25fcc4
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 20:36:14 2020 +0100
+
+    Added style.css sheet and NAV BAR to Home page
+
+commit 0a82c529681de5f90d7d60aea0c6cec80424b3ec
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 18:26:45 2020 +0100
+
+    Fixed the favicon and renamed the Home <title>
+
+commit d0c141bf9e7fe786f67c502a35a4a77e82708172
+Merge: a19a45d 392fb71
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 18:21:22 2020 +0100
+
+    Merge branch 'master' of bitbucket.org:12010280_AD/team1_covid_api_vuejs into master
+
+commit a19a45dce692865c7d1a6fb8e5aa763223c4ed75
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 18:18:02 2020 +0100
+
+    Added my Adobe XD mock up based on today's design meeting
+
+commit 392fb7176e8a1b43a171ffb49c5ceca745b21b21
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Sat Oct 24 17:52:06 2020 +0100
+
+    gamma
+
+commit 39dbed5a19cf7f7c449208ecc5eedff0dbda3edf
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 17:41:31 2020 +0100
+
+    Added directory to my designs folder
+
+commit a7e04757f4e3bf0819f723530287ca1d5c14bf93
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 13:23:29 2020 +0100
+
+    Updated team app URL in 'README.md'
+
+commit a4ca172fe3900e2b43595c95b16b4319bc7a76cd
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 13:18:18 2020 +0100
+
+    Edited manifest to disable random URL
+
+commit e21d5d9e06dff42edf18f681691497728466f009
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Sat Oct 24 13:03:30 2020 +0100
+
+    beta
+
+commit 3f260c6f6c4b841ec0d2fb53321ea0a7a44d697e
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 12:30:58 2020 +0100
+
+    Updated team app URL
+
+commit 7c498fa9844e3f7253ab0af86219277277249771
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 12:28:51 2020 +0100
+
+    Added README to my designs directory
+
+commit 7d33898217bbfde6d825654ba4c310e838bd45c6
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 12:25:32 2020 +0100
+
+    Added web design v1 artboard
+
+commit 0287ee5035021170ec40ad36e4e101af9d537fb0
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 12:14:09 2020 +0100
+
+    Edited nav-bar styling
+
+commit 4aa77299b8243c69110c665ddf7e78f5559c8ac4
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 12:06:30 2020 +0100
+
+    Added Stats button to nav bar
+
+commit 732bb70e9cace2188de84467028819954481b2a8
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 12:05:07 2020 +0100
+
+    Added News button to nav bar
+
+commit 6be469b8afc46cbc9492442dc1a4b56b80ef9f32
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 12:03:52 2020 +0100
+
+    Added Home button to nav bar
+
+commit 39c4b1dfabc4a6e7ed98e0e124905c1e39a8888c
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 11:59:56 2020 +0100
+
+    Developed skeleton for the nav bar
+
+commit 3b547dff3098c6c79a6c88eb6605b6912b5feca6
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Sat Oct 24 11:35:53 2020 +0100
+
+    Updated team app URL within the 'README.md'
+
+commit 5bd266e09c9fbfe4cca4b5480e7528bb865e5801
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Fri Oct 23 21:13:27 2020 +0100
+
+    second version of design
+
+commit d9898646bf8890a86b2542880909ac67d0db9c7c
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Thu Oct 22 17:49:38 2020 +0100
+
+    alpha
+
+commit 15bdf0e3b745190c99066cb13a5734e5bc94fe23
+Author: Slav <17004399@uhi.ac.uk>
+Date:   Thu Oct 22 17:47:05 2020 +0100
+
+    1
+
+commit 337a82e6d4bdfef5aa9f6e48000e78b7b5aa6ba5
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 22 14:40:21 2020 +0100
+
+    Added sub-directory for each team member within 'designs' directory
+
+commit 9eb0523821b446e4250db94442c6c01423e4dbcf
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 22 14:35:57 2020 +0100
+
+    Added 'designs' directory + my v1 Adobe XD Mock Design for the site
+
+commit fe27fdb248554edae13255d1d5dfb24f2ccb6a90
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Thu Oct 22 03:14:59 2020 +0100
+
+    Added the Team App's URL to the README.md file
+
+commit ad7f9b0161e192a2d903fd2f4a904f06b16ddcae
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 19 16:48:20 2020 +0100
+
+    Fixed something in App.vue
+
+commit e3ef9901a170a1d8eb64f7ed51fea92727c2a58c
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 19 16:15:10 2020 +0100
+
+    Edited manifest
+
+commit 6360c4f15a828bf81ddec085463b6fd86a711d54
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 19 16:11:08 2020 +0100
+
+    Following Vue.js Tutorial
+
+commit 6c72ed113114aef2e947c6d823fb9b4d0d7e4746
+Author: ALEX DUTHIE <alexduthiemain@outlook.com>
+Date:   Mon Oct 19 15:45:35 2020 +0100
+
+    Added vue files
+
+commit e15d61d1a145718f4968349329aeb4fdfd1008a2
+Author: ALEXANDER DUTHIE <12010280@uhi.ac.uk>
+Date:   Mon Oct 19 12:52:46 2020 +0000
+
+    Initial commit
