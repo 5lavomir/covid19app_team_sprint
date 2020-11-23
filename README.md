@@ -1,6 +1,11 @@
-# Covid19App, 2 week sprint, Team 1.
+# Covid19App Sprint for UHI
 
-## This is a website developed as part of coursework at the University of the Highlands and Islands, to allow student teams to experiment with building websites based on open APIs. We used the API from https://covid19api.com/ to create a web app in a 2 week sprint.
+* Week: 2
+* Team: 1
+
+This is a website developed as part of coursework at the **University of the Highlands and Islands**. 
+
+This project allowed student teams to experiment with building websites based on open **APIs**. We used the API from [here](https://covid19api.com/) to create a web app in a 2 week sprint.
 
 ## Project setup
 ```
