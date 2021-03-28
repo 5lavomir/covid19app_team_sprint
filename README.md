@@ -36,3 +36,7 @@ npm run lint
 
 * **Alex Duthie**: [Linkedin](https://www.linkedin.com/in/alexduthielnkdn/)
 * **Lewis Brogan** [Linkedin](https://www.linkedin.com/in/lewis-brogan-14325b138/)
+* **Slawomir Szakalinis** [Linkedin](https://www.linkedin.com/in/slawomir-szakalinis/)
+* **Grant Johnstone** [Linkedin](https://www.linkedin.com/in/grant-johnstone-81b2ba1b6/)
+* **Andrew Ellen** [Linkedin](https://www.linkedin.com/in/andrew-ellen-3719361b5/)
+
